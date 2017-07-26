@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sangam.iml" filepath="$PROJECT_DIR$/.idea/modules/Sangam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sangam_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Sangam_main.iml" group="Sangam" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Sangam_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Sangam_test.iml" group="Sangam" />
+    </modules>
+  </component>
+</project>
