@@ -1,0 +1,2 @@
+include ':monitor'
+rootProject.name = 'Airtel'
